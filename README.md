@@ -9,7 +9,7 @@ sus resultados y las correcciones del docente.
   
 ## Introducción
 > En este proyecto, realizado en el marco de la cátedra de Inteligencia Artificial Avanzada 
-(materia de quinto nivel de Ing. en Sistemas de Información de la UTN FRBA), se implementó
+(asignatura electiva de quinto nivel de Ing. en Sistemas de Información de la UTN FRBA), se implementó
 un modelo de Machine Learning capaz de categorizar medios de transporte a partir de imágenes
 tomadas desde distintos ángulos y con diferente zoom. 
 > A tal fin, partiendo de un dataset de acceso público, se confeccionaron ~~tres~~ cuatro
